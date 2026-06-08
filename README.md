@@ -1,6 +1,6 @@
 # 65-Keyboard-
 
-<img width="818" height="619" alt="Screenshot 2026-06-08 170339" src="https://github.com/user-attachments/assets/1a95979c-809d-485c-a2c8-ed636c6c98bc" />
+
 
 <img width="1158" height="550" alt="Screenshot 2026-06-08 170318" src="https://github.com/user-attachments/assets/841aec48-1cd3-44ef-9f79-7b16b6ec1393" />
 
